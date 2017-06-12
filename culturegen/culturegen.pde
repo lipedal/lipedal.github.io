@@ -93,7 +93,7 @@ String[][] textParts =
     "nightclub", 
     "street", 
     "Russian", 
-    "Egyptian", 
+    "Australian",
     "Polynesian"
   }, 
   // Inspiration subject
