@@ -20,7 +20,11 @@ String[][] textParts =
     "Tran", 
     "Gra", 
     "Chan", 
-    "Mastur"
+    "Mastur",
+    "Fra",
+    "Kil",
+    "Yak",
+    "Pay"
   }, 
   // Name Part 2
   {
@@ -172,14 +176,25 @@ String[][] textParts =
     "beatboxing", 
     "humming", 
     "candy-eating", 
-    "grocery-shopping"
+    "grocery-shopping",
+    "alien impersonations",
+    "demonstrations of paranoia",
+    "confessions of fake crimes",
+    "suicide attempts",
+    "acts of creation",
+    "gardening procedures",
+    "meal courses",
+    "online courses",
+    "death-defying acrobacies",
+    "speeches",
+    "verbal exchanges"
   }, 
   // Synonyms for "As a way of"
   {
     "as a way of", 
     "with the intention of"
   }, 
-  // Reason
+  // Motivation
   {
     "showing dominance over their opponents", 
     "manifesting political views", 
@@ -193,7 +208,28 @@ String[][] textParts =
     "shocking the modern society", 
     "empowering their leaders", 
     "paying tribute to the dead", 
-    "proving their might"
+    "proving their might",
+    "criticizing political correctedness",
+    "flirting with their mates",
+    "calling attention to their problems",
+    "provoking social outrage",
+    "inducing mass hysteria",
+    "nurturing their offspring",
+    "tending to their loved ones",
+    "asking for divine mercy",
+    "finding what unites us all",
+    "turning humankind obsolete",
+    "fighting for equality",
+    "protesting over climate change",
+    "spending the weekends",
+    "getting the neighborhood together",
+    "stopping technological advancement",
+    "proving the theory of evolution",
+    "preaching on creationism",
+    "making money",
+    "retaining their youth",
+    "protesting against violence",
+    "resisting globalization"
   }
 };
 
