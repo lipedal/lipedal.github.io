@@ -184,7 +184,7 @@ String[][] textParts =
     "acts of creation",
     "gardening procedures",
     "meal courses",
-    "online courses",
+    "online debates",
     "death-defying acrobacies",
     "speeches",
     "verbal exchanges"
@@ -221,7 +221,7 @@ String[][] textParts =
     "turning humankind obsolete",
     "fighting for equality",
     "protesting over climate change",
-    "spending the weekends",
+    "making the weekends last longer",
     "getting the neighborhood together",
     "stopping technological advancement",
     "proving the theory of evolution",
