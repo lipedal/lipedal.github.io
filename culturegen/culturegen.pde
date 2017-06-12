@@ -210,7 +210,7 @@ String[][] textParts =
     "paying tribute to the dead", 
     "proving their might",
     "criticizing political correctedness",
-    "flirting with their mates",
+    "finding a mate",
     "calling attention to their problems",
     "provoking social outrage",
     "inducing mass hysteria",
