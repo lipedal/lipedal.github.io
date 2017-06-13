@@ -215,7 +215,7 @@ String[][] textParts =
     "inducing mass hysteria",
     "nurturing their offspring",
     "tending to their loved ones",
-    "asking for divine mercy",
+    "seeking for divine mercy",
     "finding what unites us all",
     "turning humankind obsolete",
     "fighting for equality",
