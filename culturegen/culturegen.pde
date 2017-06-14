@@ -1,3 +1,6 @@
+long seed;
+long seedInc;
+
 String[][] textParts =
   {
   // Name Part 1
@@ -266,11 +269,13 @@ void mouseClicked()
 
 String generateName()
 {
+  randomSeed(millis());
   return randPart(0) + randPart(1);
 }
 
 String generateDescription()
 {
+  randomSeed(hash(name));
   return randPart(2) + " " + randPart(3) + " " +
     randPart(4) + " " + randPart(5) + " " + randPart(6) + " " +
     randPart (7) + ", " + randPart(8) + " " + randPart(9) + " " +
@@ -284,3 +289,13 @@ String randPart (int column)
   String str = textParts[column][row];  
   return str;
 }
+
+int hash (String str)
+{
+   char ch[];
+   ch = str.toCharArray();
+   int i, sum;
+   for (sum=0, i=0; i < str.length(); i++)
+     sum += i*ch[i];
+   return sum;
+ }
